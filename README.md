@@ -2,7 +2,7 @@
 - 👀 I’m interested in doxing and DOSS 
 - 🌱 I’m 19 years
 - 💞️ I’m looking to collaborate on doxbin.org
-- 📫 email.      nexazxc@ail.ru
+- 📫 email.      nexazxc@mail.ru
 
 <!---
 sobermck7/sobermck7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
